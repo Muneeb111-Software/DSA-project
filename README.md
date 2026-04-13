@@ -1,3 +1,3 @@
 # DSA-project
-DSA project using C++
+Ride Sharing Managment System using DSA C++
 Author Muneeb Hiader 
