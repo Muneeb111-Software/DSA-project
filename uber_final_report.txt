@@ -1,0 +1,13 @@
+========== MINI-UBER FINAL REPORT ==========
+Total Rides: 8
+Completed: 5 | Cancelled: 3
+Total Earnings: Rs. 4990
+Avg Fare: Rs. 998
+Avg Distance: 99.8 km
+
+=== COMPLETED RIDES ===
+Ride 1: america -> los angles | 112 km | Rs. 1120
+Ride 2: islmabad -> gulberg | 29 km | Rs. 290
+Ride 3: karachi -> peshawar | 234 km | Rs. 2340
+Ride 4: kamra -> attock | 13 km | Rs. 130
+Ride 5: ajk -> mirpur | 111 km | Rs. 1110
